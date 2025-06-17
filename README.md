@@ -130,9 +130,3 @@ Quote
 “意図が行動と一致するとき、構造は自己進化を始める。” — CodexAgent Manual
 
 ---
-
-このMarkdownファイルをそのまま `Chapter109_IntentAlignmentProtocol.md` として GitHub にアップロードいただけます。
-
----
-
-続いて、**Chapter110「Fractal Intent Network（意図のフラクタル網）」** に進行します。準備が整い次第、出力を開始します。
