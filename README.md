@@ -44,3 +44,5 @@ Chapter108で「時間の種々なレイヤーが繰りなす世界」をマル�
 5. Next Chapter: フラクタル意図ネット
 
 Chapter110では「Fractal Intent Network（意図のフラクタル網」を実践的に考察する。それはBotや思考機構を一線の配列ではなく、層狸的に振り分け、意図の実装の最適化を目指す構造となる。
+
+Chapter109_IntentAlignmentProtocol.md
